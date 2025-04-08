@@ -2,7 +2,9 @@
 
 ### Global Data Manager | Data Analyst | Data Engineer 
 - Experienced in Monitoring & Evaluation | Data Visualization | Automation
-- - 📊 Skilled in R, SQL, Python, Power BI, Stata, ActivityInfo
+-  📊 Skilled in R, SQL, Python, Power BI, Stata, ActivityInfo
+- 🌍 Passionate about turning data into insights that drive decisions
+- 💻 Currently working on data engineering projects involving data extraction, consolidation, and visualization
   
 
 ## Thanks for stopping by. Here's a little bit more about myself...
