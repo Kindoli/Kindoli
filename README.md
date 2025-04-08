@@ -30,6 +30,7 @@
 
 - Email: kindolieddie@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kindoli-edward-5058544a/
+- Github: https://github.com/Kindoli
 
 
 ## ❤️ Fun Fact
