@@ -23,3 +23,7 @@
 ## Contacts
 - Email: kindolieddie@gmail.com
 - Phone: +256-774-312-355
+  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
