@@ -1,9 +1,11 @@
 ## Hi there 👋 
 
-<!--
-**Kindoli/Kindoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Global Data Manager | Data Analyst | Data Engineer 
+- Experienced in Monitoring & Evaluation | Data Visualization | Automation
+- - 📊 Skilled in R, SQL, Python, Power BI, Stata, ActivityInfo
+  
 
-## Thanks for stopping by. Here's a little bit about myself...
+## Thanks for stopping by. Here's a little bit more about myself...
 - 😄 My pronouns are: He/His/Him
 - 🔭 I’m currently working as  data engineer/ data analyst and building my YouTube channel. That means...
   -  👯 I'm open for freelance gigs, conslutancy and contract based opportunitites
