@@ -16,7 +16,7 @@
 - Monitoring & Evaluation: Data Collection, Cleaning, Analysis, Reporting
 - Cloud Tools: AWS S3, ActivityInfo API
 - Others: Dashboard Design, Data Quality Audits, Capacity Building
-- 
+  
 ## 📈 What I'm Currently Working On
 
 - Automating data extraction using R scripts
