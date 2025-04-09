@@ -25,6 +25,7 @@
 - Building data pipelines for real-world projects like the Titanic Dataset
   
 ## 🚀 Featured Projects
+(See pinned repositories below ⬇️ for details)
 
 ## 📫 How to Reach Me
 
