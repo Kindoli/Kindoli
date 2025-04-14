@@ -14,12 +14,12 @@
 - Visualization: `Power BI`, `ActivityInfo`, `Excel`
 - Data Engineering: ETL Pipelines, API Integration, Scripting
 - Monitoring & Evaluation: Data Collection, Cleaning, Analysis, Reporting
-- Cloud Tools: AWS S3, ActivityInfo API
+- Cloud Tools: AWS, ActivityInfo API, GCP
 - Others: Dashboard Design, Data Quality Audits, Capacity Building
   
 ## 📈 What I'm Currently Working On
 
-- Automating data extraction using R scripts
+- Automating data extraction using R scripts and Python Scripts
 - Consolidating multi-source data into unified databases in ActivityInfo
 - Visualizing insights using Power BI
 - Building data pipelines for real-world projects like the Titanic Dataset
